@@ -1,0 +1,18 @@
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaLogica\obj\Debug\CapaLogica.pdb

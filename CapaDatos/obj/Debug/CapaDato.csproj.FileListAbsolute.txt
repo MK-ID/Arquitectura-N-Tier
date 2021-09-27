@@ -1,0 +1,11 @@
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaDatos\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaDatos\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Pcell Shop\source\repos\slnArquitecturaNTier\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaDatos\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\MK-ID\source\repos\slnArquitecturaNTier\CapaDatos\obj\Debug\CapaDatos.pdb
